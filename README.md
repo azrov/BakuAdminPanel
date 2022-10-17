@@ -3,9 +3,19 @@ Baku Admin Panel - Multipurpose HMVC Admin Panel
 
 CodeIgniter v4.2.7
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NCDN_-_CDN.svg/1920px-NCDN_-_CDN.svg.png">
 
-##### Email: *alizairov@mail.ru*
+
+### Previews
+
+<img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/HOME.png">
+
+<img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/DASHBOARD.png">
+
+<img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/MODULES.png">
+
+
+
+#### Email: *alizairov@mail.ru*
 
 #### [NOTE: AVAIABLE FOR FREELANCER WORK]
 
