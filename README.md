@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/80.jpg">
-
-Baku Admin Panel - Multipurpose HMVC Admin Panel
-
 <img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/poster.jpg">
 
 ### Previews
@@ -12,11 +8,11 @@ Baku Admin Panel - Multipurpose HMVC Admin Panel
 
 <img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/MODULES.png">
 
-# CodeIgniter v4.2.7
+### CodeIgniter v4.2.7
 
-#### Email: *alizairov@mail.ru*
+### Email: *alizairov@mail.ru*
 
-#### [NOTE: AVAIABLE FOR FREELANCER WORK]
+### [NOTE: AVAIABLE FOR FREELANCER WORK]
 
 ### Source & Credit:
 <ul>
