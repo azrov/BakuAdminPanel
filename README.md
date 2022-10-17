@@ -1,5 +1,3 @@
-### Baku Admin Panel
-
 <img src="https://raw.githubusercontent.com/azrov/BakuAdminPanel/main/previews/80.jpg">
 
 Baku Admin Panel - Multipurpose HMVC Admin Panel
