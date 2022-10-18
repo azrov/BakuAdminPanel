@@ -50,14 +50,20 @@ class Users extends BaseController
 
     public function delete($id)
     {
-        $model = model(UserModel::class);
-        $func  = $model->del($id);
-
-        if ($func) {
-            session()->setFlashdata('type', 's');
-            session()->setFlashdata('msg', lang('App.m_success'));
+        if ($id == 1) 
+        {
             $url = base_url() . '/admin/users';
             return redirect()->to($url);
+        } else {
+            $model = model(UserModel::class);
+            $func  = $model->del($id);
+
+            if ($func) {
+                session()->setFlashdata('type', 's');
+                session()->setFlashdata('msg', lang('App.m_success'));
+                $url = base_url() . '/admin/users';
+                return redirect()->to($url);
+            }
         }
     }
 

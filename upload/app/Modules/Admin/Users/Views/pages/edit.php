@@ -54,7 +54,7 @@
                             </div>
                             <div class="col-md-6 mb-3">
                                 <label for="role"><?php echo lang('App.role'); ?></label>
-                                <select class="form-control" id="role" name="role" required>
+                                <select class="form-control" id="role" name="role" required <?php if ($id == 1) { echo 'disabled'; } ?>>
                                     <?php foreach($list as $key => $value) { ?>
                                     <?php if ($value['id'] == $data['role']) { ?>
                                     <?php echo '<option selected value="' . $value['id'] . '">' . lang('App.' . $value['name']) . '</option>' . PHP_EOL; ?>
