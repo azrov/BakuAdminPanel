@@ -46,9 +46,9 @@ CREATE TABLE `modules` (
 
 INSERT INTO `modules` (`id`, `role`, `name`, `description`, `author`, `path`, `icon`, `version`, `status`, `blocked`) VALUES
 (1, 1, 'dashboard', 'Dashboard', 'Ali Zairov', 'Modules/Admin/Dashboard', 'activity', '1.0', 1, 1),
-(2, 1, 'users', 'Users', 'Ali Zairov', 'Modules/Admin/Dashboard/Users', 'users', '1.0', 1, 1),
-(3, 1, 'roles', 'Roles', 'Ali Zairov', 'Modules/Admin/Dashboard/Roles', 'user', '1.0', 1, 1),
-(4, 1, 'settings', 'Settings', 'Ali Zairov', 'Modules/Admin/Dashboard/Settings', 'settings', '1.0', 1, 1);
+(2, 1, 'users', 'Users', 'Ali Zairov', 'Modules/Admin/Users', 'users', '1.0', 1, 1),
+(3, 1, 'roles', 'Roles', 'Ali Zairov', 'Modules/Admin/Roles', 'user', '1.0', 1, 1),
+(4, 1, 'settings', 'Settings', 'Ali Zairov', 'Modules/Admin/Settings', 'settings', '1.0', 1, 1);
 
 -- --------------------------------------------------------
 
